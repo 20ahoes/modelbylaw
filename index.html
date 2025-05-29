@@ -29,13 +29,13 @@
     #toc a:hover {
       text-decoration: underline;
     }
-    /* Glossary term style (same as before) */
+    /* Glossary term style */
     .glossary-term {
       color: blue;
       cursor: pointer;
       text-decoration: underline;
     }
-    /* Floating pop‑up (same as before) */
+    /* Floating pop‑up */
     #glossary-popup {
       position: fixed;
       top: 20px;
@@ -71,22 +71,70 @@
   </aside>
 
   <script>
-    // 1. Your glossary map
+    // 1. Your glossary terms (adjust as needed)
     const glossary = {
       "Zoning": "The legal designation of land for a specific use or uses.",
       "Overlay District": "A regulatory tool that imposes additional requirements on top of the underlying zoning.",
       "Setback": "The minimum required distance between a building and the property line."
-      // …etc.
+      // …add more term:definition pairs here…
     };
 
-    // 2. Grab the raw text
-    fetch("MBTAc_sample_zoning.txt")
-      .then(res => res.text())
-      .then(raw => init(raw));
+    // 2. Compute base URL so fetch always hits the right folder
+    const baseUrl = window.location.href
+      .replace(/\/index\.html$/, "")
+      .replace(/\/$/, "");
 
-    let sections = [];   // will hold { title, content }
-    let tocDiv;          // the TOC container, so we can re‑append it
+    // 3. Fetch the text file, with error handling
+    fetch(`${baseUrl}/MBTAc_sample_zoning.txt`)
+      .then(res => {
+        if (!res.ok) {
+          throw new Error(`Failed to load text (${res.status})`);
+        }
+        return res.text();
+      })
+      .then(raw => init(raw))
+      .catch(err => {
+        console.error(err);
+        document.getElementById("content").innerText =
+          "⚠️ Error loading content. Check console for details.";
+      });
+
+    // Will hold each section as { title, content }
+    let sections = [];
+    let tocDiv;
 
     function init(rawText) {
-      // 3. Split into sections by heading lines like "C. Definitions"
-      const headingRe = /^([A-Z]
+      // 4. Split rawText into sections by headings like "A. Title"
+      const headingRe = /^([A-Z]\.\s.+)$/gm;
+      let match, lastIdx = 0;
+      while ((match = headingRe.exec(rawText)) !== null) {
+        if (sections.length) {
+          sections[sections.length - 1].content =
+            rawText.slice(lastIdx, match.index).trim();
+        }
+        sections.push({ title: match[1], content: "" });
+        lastIdx = match.index + match[1].length;
+      }
+      if (sections.length) {
+        sections[sections.length - 1].content =
+          rawText.slice(lastIdx).trim();
+      }
+      buildTOC();
+    }
+
+    function buildTOC() {
+      const container = document.getElementById("content");
+      tocDiv = document.createElement("div");
+      tocDiv.id = "toc";
+      const ul = document.createElement("ul");
+
+      sections.forEach((sec, idx) => {
+        const li = document.createElement("li");
+        const a  = document.createElement("a");
+        a.textContent = sec.title;
+        a.addEventListener("click", e => {
+          e.preventDefault();
+          showSection(idx);
+        });
+        li.appendChild(a);
+        ul.appendChild(li
