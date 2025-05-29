@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>MBTA Zoning Glossary</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+      position: relative;
+    }
+    /* Container for your text */
+    #content {
+      max-width: 700px;
+    }
+    /* Glossary term style */
+    .glossary-term {
+      color: blue;
+      cursor: pointer;
+      text-decoration: underline;
+    }
+    /* The floating pop-up */
+    #glossary-popup {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      width: 300px;
+      padding: 12px;
+      background: #fff;
+      border: 1px solid #ccc;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+      display: none;
+      z-index: 1000;
+    }
+    #glossary-popup button {
+      background: none;
+      border: none;
+      font-size: 16px;
+      float: right;
+      cursor: pointer;
+    }
+    #glossary-popup h4 {
+      margin: 0 0 8px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Where the PDF text will go -->
+  <div id="content">Loading text…</div>
+
+  <!-- The margin pop‑up -->
+  <aside id="glossary-popup">
+    <button id="close-popup">×</button>
+    <h4 id="popup-term"></h4>
+    <div id="popup-definition"></div>
+  </aside>
+
+  <script>
+    // 1. Define your glossary: term → definition
+    const glossary = {
+      "Zoning": "The legal designation of land for a specific use or uses.",
+      "Overlay District": "A regulatory tool that imposes additional requirements on top of the underlying zoning.",
+      "Setback": "The minimum required distance between a building and the property line."
+      // … add as many as you need …
+    };
+
+    // 2. Fetch in your text file, stick it into #content
+    fetch("MBTAc_sample_zoning.txt")
+      .then(res => res.text())
+      .then(text => {
+        // For simplicity we inject as HTML‑escaped text
+        document.getElementById("content").innerText = text;
+        wrapTerms();
+      });
+
+    // 3. Wrap each glossary term in a <span> so we can click it
+    function wrapTerms() {
+      const container = document.getElementById("content");
+      let html = container.innerHTML;
+
+      // Build a regex to match each term as a whole word
+      const terms = Object.keys(glossary)
+        .map(t => t.replace(/[-\/\\^$*+?.()|[\]{}]/g, "\\$&"))  // escape regex
+        .join("|");
+      const re = new RegExp("\\b(" + terms + ")\\b", "g");
+
+      // Replace with a span carrying the term
+      html = html.replace(re, (match) =>
+        `<span class="glossary-term">${match}</span>`
+      );
+      container.innerHTML = html;
+
+      // Attach click handlers
+      document.querySelectorAll(".glossary-term")
+        .forEach(el => el.addEventListener("click", onTermClick));
+    }
+
+    // 4. On click, show the pop‑up with the definition
+    function onTermClick(e) {
+      const term = e.target.innerText;
+      document.getElementById("popup-term").innerText = term;
+      document.getElementById("popup-definition").innerText = glossary[term];
+      document.getElementById("glossary-popup").style.display = "block";
+    }
+
+    // 5. Close button
+    document.getElementById("close-popup")
+      .addEventListener("click", () => {
+        document.getElementById("glossary-popup").style.display = "none";
+      });
+  </script>
+</body>
+</html>
