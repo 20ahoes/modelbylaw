@@ -56,7 +56,7 @@ For purposes of this Section[x], the following definitions shall apply.
 7. Compliance Guidelines. Compliance Guidelines for Multi-Family Zoning Districts Under Section 3A of the Zoning Act as further revised or amended from time to time.
 8. DHCD. The Massachusetts Department of Housing and Community Development, or any successor agency.
 9. Development standards. Provisions of Section [x] G. General Development Standards made applicable to projects within the MCMOD.
-10. EOHLC. The Massachusetts Executive Office of Housing and Livable Communities, DHCDís successor agency.
+10. EOHLC. The Massachusetts Executive Office of Housing and Livable Communities, DHCD‚Äôs successor agency.
 11. Lot. An area of land with definite boundaries that is used or available for use as the site of a building or buildings.
 12. MBTA. Massachusetts Bay Transportation Authority.
 13. Mixed-use development. Development containing a mix of residential uses and non- residential uses, including, commercial, institutional, industrial, or other uses.
@@ -86,7 +86,18 @@ c. c. Subway station. Any of the stops along the MBTA Red Line, Green Line, Oran
 D.	Permitted Uses
 1. Uses Permitted As of Right. The following uses are permitted as of right within the MCMOD.
 a. Multi-family housing.
-Ground FloorCommunity space.Educational uses.Personal services.RetailExperiential retail, including retail associated with dance or exercise studios, music studios, photography studios, or other combination of education, services, and retail.Restaurant, cafÈ, and other eating establishments without a drive-through.Office, professional office, medical and dental offices, and co-working spaceArtistsí studios, maker space, and small-scale food production [no more than 5,000 SF], and retail associated with each use.Any FloorResidential (required component).b. Mixed-use development. As of right uses in a mixed-use development are as follows:
+Ground Floor
+Community space.
+Educational uses.
+Personal services.
+Retail
+Experiential retail, including retail associated with dance or exercise studios, music studios, photography studios, or other combination of education, services, and retail.
+Restaurant, caf√©, and other eating establishments without a drive-through.
+Office, professional office, medical and dental offices, and co-working space
+Artists‚Äô studios, maker space, and small-scale food production [no more than 5,000 SF], and retail associated with each use.
+Any Floor
+Residential (required component).
+b. Mixed-use development. As of right uses in a mixed-use development are as follows:
 
 2.  [Uses Permitted by Special Permit. The following uses [and accessory uses] require a Special Permit from the [Special Permit Granting Authority].]
 3. Accessory Uses. The following uses are considered accessory as of right to any of the permitted uses in Section D.1.
@@ -101,13 +112,51 @@ b. [Identify as of right accessory uses appropriate to the above permitted uses.
 E.	Dimensional Standards
 1. Table of Dimensional Standards. Notwithstanding anything to the contrary in this Zoning, the dimensional requirements applicable in the MCMOD are as follows:
 
-StandardLot SizeMinimum(1) (SF)Height(2)Stories (Maximum)Feet (Maximum)Minimum Open Space(3)
-2. [Additional standards ñ see notes]
+Standard
 
-StandardFloor Area Ratio (FAR)(4)Maximum Building Coverage(5)
-3. [Additional standards ñ see notes]
+Lot Size
 
-StandardMinimum Frontage(6) (ft)Front Yard Setback(7)Min. to Max. (ft.)Side Yard SetbackCorner (ft)Interior (ft)Rear Yard SetbackMin. to Max. (ft.)
+Minimum(1) (SF)
+
+Height(2)
+
+Stories (Maximum)
+
+Feet (Maximum)
+
+Minimum Open Space(3)
+
+
+2. [Additional standards ‚Äì see notes]
+
+Standard
+
+Floor Area Ratio (FAR)(4)
+
+Maximum Building Coverage(5)
+
+
+3. [Additional standards ‚Äì see notes]
+
+Standard
+
+Minimum Frontage(6) (ft)
+
+Front Yard Setback(7)
+
+Min. to Max. (ft.)
+
+Side Yard Setback
+
+Corner (ft)
+
+Interior (ft)
+
+Rear Yard Setback
+
+Min. to Max. (ft.)
+
+
 4. Multi-Building Lots. In the MCMOD, lots may have more than one principal building.8
 5. Exceptions. The limitation on height of buildings shall not apply to chimneys, ventilators, towers, silos, spires, or other ornamental features of buildings, which features are in no way used for living purposes and do not constitute more than 25% of the ground floor area of the building.
 6. Exceptions: Renewable Energy Installations. The Site Plan Review Authority or Special Permit Granting Authority may waive the height and setbacks in Section [x] E. Dimensional Standards to accommodate the installation of solar photovoltaic, solar thermal, living, and other eco-roofs, energy storage, and air-source heat pump equipment. Such installations shall not create a significant detriment to abutters in terms of noise or shadow and must be appropriately integrated into the architecture of the building and the layout of the site. The installations shall not provide additional habitable space within the development.
@@ -133,9 +182,21 @@ StandardMinimum Frontage(6) (ft)Front Yard Setback(7)Min. to Max. (ft.)S
 F.	Off-Street Parking
 These parking requirements are applicable to development in the MCMOD.
 1. Number of parking spaces. The following maximum numbers of off-street parking spaces shall be permitted by use, either in surface parking or within garages or other structures:
-UseMaximum SpacesMulti-family[# spaces per Residential Dwelling Unit]Mixed-Use (Non-residential)/ Commercial[Sum of uses computed separately. (See 3, below.)]
+Use
+Maximum Spaces
+Multi-family
+[# spaces per Residential Dwelling Unit]
+Mixed-Use (Non-residential)/ Commercial
+[Sum of uses computed separately. (See 3, below.)]
+
 2. Number of bicycle parking spaces. The following minimum numbers of covered bicycle storage spaces shall be provided by use:
-UseMaximum SpacesMulti-family[# spaces per Residential Dwelling Unit]Mixed-Use (Non-residential)/ Commercial[# spaces per Gross Square Feet or other measure]
+Use
+Maximum Spaces
+Multi-family
+[# spaces per Residential Dwelling Unit]
+Mixed-Use (Non-residential)/ Commercial
+[# spaces per Gross Square Feet or other measure]
+
 3. [Bicycle storage. For a multi-family development of [25] units or more, or a mixed- use development of [25,000] square feet or more, covered parking bicycle parking spaces shall be integrated into the structure of the building(s).]
 4. [Shared Parking within a Mixed-Use Development. Parking requirements for a mix of uses on a single site may be adjusted through the Site Plan Review process, if the applicant can demonstrate that shared spaces will meet parking demands by using accepted methodologies.]
 
@@ -158,15 +219,15 @@ f. Plantings. Plantings shall include species that are native or adapted to the 
 g. Lighting. Light levels shall meet or exceed the minimum design guidelines defined by the Illuminating Engineering Society of North America (IESNA) and shall provide illumination necessary for safety and convenience while preventing glare and overspill onto adjoining properties and reducing the amount of skyglow.
 h. Mechanicals. Mechanical equipment at ground level shall be screened by a combination of fencing and plantings. Rooftop mechanical equipment shall be screened if visible from a public right-of-way.
 i. Dumpsters. Dumpsters shall be screened by a combination of fencing and plantings. Where possible, dumpsters or other trash and recycling collection points shall be located within the building.
-j. Stormwater management. Strategies that demonstrate compliance of the construction activities and the proposed project with the most current versions of the Massachusetts Department of Environmental Protection Stormwater Management Standards, the Massachusetts Stormwater Handbook, Massachusetts Erosion Sediment and Control Guidelines, and, if applicable, additional requirements under the [Municipality] MS4 Permit for projects that disturb more than one acre and discharge to the [Cityís/Townís] municipal stormwater system, and an Operations and Management Plan for both the construction activities and ongoing post-construction maintenance and reporting requirements.
+j. Stormwater management. Strategies that demonstrate compliance of the construction activities and the proposed project with the most current versions of the Massachusetts Department of Environmental Protection Stormwater Management Standards, the Massachusetts Stormwater Handbook, Massachusetts Erosion Sediment and Control Guidelines, and, if applicable, additional requirements under the [Municipality] MS4 Permit for projects that disturb more than one acre and discharge to the [City‚Äôs/Town‚Äôs] municipal stormwater system, and an Operations and Management Plan for both the construction activities and ongoing post-construction maintenance and reporting requirements.
 3.  Buildings: General.
-a. Position relative to principal street. The primary building shall have its principal faÁade and entrance facing the principal street. See also Section G.7. Buildings: Corner Lots.
+a. Position relative to principal street. The primary building shall have its principal fa√ßade and entrance facing the principal street. See also Section G.7. Buildings: Corner Lots.
 b. Entries. Where feasible, entries shall be clearly defined and linked to a paved pedestrian network that includes the public sidewalk.
 4. Buildings: Multiple buildings on a lot.
 a. For a mixed-use development, uses may be mixed within the buildings or in separate buildings.
 b. Parking and circulation on the site shall be organized so as to reduce the amount of impervious surface. Where possible, parking and loading areas shall be connected to minimize curb cuts onto public rights-of-way.
 c. A paved pedestrian network shall connect parking to the entries to all buildings and the buildings to each other.
-d. The orientation of multiple buildings on a lot should reinforce the relationships among the buildings. All building faÁade(s) shall be treated with the same care and attention in terms of entries, fenestration, and materials.
+d. The orientation of multiple buildings on a lot should reinforce the relationships among the buildings. All building fa√ßade(s) shall be treated with the same care and attention in terms of entries, fenestration, and materials.
 e. The building(s) adjacent to the public street shall have a pedestrian entry facing the public street.
 5. Buildings: Mixed-use development.
 a. In a mixed-use building, access to and egress from the residential component shall be clearly differentiated from access to other uses. Such differentiation may occur by using separate entrances or egresses from the building or within a lobby space shared among different uses.
@@ -174,13 +235,13 @@ b. Paved pedestrian access from the residential component shall be provided to r
 c. Materials for non-residential uses shall be stored inside or under cover and shall not be accessible to residents of the development.
 d. Parking and circulation on the site shall be organized so as to reduce the amount of impervious surface. Where possible, parking and loading areas shall be connected to minimize curb cuts onto public rights-of-way.
 
-6. Buildings: Shared Outdoor Space. Multi-family housing and mixed-use development shall have common outdoor space that all residents can access. Such space may be located in any combination of ground floor, courtyard, rooftop, or terrace. All outdoor space shall count towards the projectís minimum Open Space requirement.
-7. Buildings: Corner Lots. A building on a corner lot shall indicate a primary entrance either along one of the street-facing faÁades or on the primary corner as an entrance serving both streets.
+6. Buildings: Shared Outdoor Space. Multi-family housing and mixed-use development shall have common outdoor space that all residents can access. Such space may be located in any combination of ground floor, courtyard, rooftop, or terrace. All outdoor space shall count towards the project‚Äôs minimum Open Space requirement.
+7. Buildings: Corner Lots. A building on a corner lot shall indicate a primary entrance either along one of the street-facing fa√ßades or on the primary corner as an entrance serving both streets.
 a. Such entries shall be connected by a paved surface to the public sidewalk, if applicable.
-b. All faÁades visible from a public right-of-way shall be treated with similar care and attention in terms of entries, fenestration, and materials.
-c. Fire exits serving more than one story shall not be located on either of the street-facing faÁades.
+b. All fa√ßades visible from a public right-of-way shall be treated with similar care and attention in terms of entries, fenestration, and materials.
+c. Fire exits serving more than one story shall not be located on either of the street-facing fa√ßades.
 8. Buildings: Infill Lots. If the adjacent buildings are set back at a distance that exceeds the minimum front yard requirements, infill buildings shall meet the requirements of Section [x] E. Dimensional Standards. Otherwise, infill buildings may match the setback line of either adjacent building, or an average of the setback of the two buildings to provide consistency along the street.
-9. Buildings: Principal FaÁade and Parking. Parking shall be subordinate in design and location to the principal building faÁade.
+9. Buildings: Principal Fa√ßade and Parking. Parking shall be subordinate in design and location to the principal building fa√ßade.
 a. Surface parking. Surface parking shall be located to the rear or side of the principal building. Parking shall not be located in the setback between the building and any lot line adjacent to the public right-of-way.
 b. Integrated garages. The principal pedestrian entry into the building shall be more prominent in design and placement than the vehicular entry into the garage.
 c. Parking structures. Building(s) dedicated to structured parking on the same lot as one or more multi-family buildings or mixed-use development shall be subordinate in design and placement to the multi-family or mixed-use building(s) on the lot.
@@ -199,8 +260,8 @@ c. Increase the production of affordable housing units to meet existing and anti
 d. Work to overcome economic segregation allowing [Municipality] to be a community of opportunity in which low and moderate-income households have the opportunity to advance economically.]
 2. Applicability. This requirement is applicable to all residential and mixed-use developments with [ten (10)] or more dwelling units, whether new construction, substantial rehabilitation, expansion, reconstruction, or residential conversion (Applicable Projects). No project may be divided or phased to avoid the requirements of this section.
 3. Affordability requirements. [Either a or b, not both.]
-a. [Subsidized Housing Inventory. [All] units affordable to households earning 80% or less of AMI created in the MCMOD under this section must be eligible for listing on EOHLCís Subsidized Housing Inventory.]
-b. [Non-SHI Affordable Units. Affordable Units do not have to qualify for listing on EOHLCís Subsidized Housing Inventory but must be restricted in accordance with the metrics below.]
+a. [Subsidized Housing Inventory. [All] units affordable to households earning 80% or less of AMI created in the MCMOD under this section must be eligible for listing on EOHLC‚Äôs Subsidized Housing Inventory.]
+b. [Non-SHI Affordable Units. Affordable Units do not have to qualify for listing on EOHLC‚Äôs Subsidized Housing Inventory but must be restricted in accordance with the metrics below.]
 4. Provision of Affordable Housing. In Applicable Projects, not fewer than [ten percent (10%)] of housing units constructed shall be Affordable Housing Units. For purposes of calculating the number of units of Affordable Housing required within a development project, a fractional unit shall be rounded down to the next whole number. The Affordable Units shall be available to households earning income up to [eighty percent (80%)] of the AMI.
 5. [Fee in Lieu.
 a. As an alternative to the requirements of paragraph (3) of this section, and at the sole discretion and majority vote of [the Executive Body of the municipality] upon a recommendation of the [Zoning Enforcement Officer/Planning Director/Building Inspector/Housing Coordinator], the developer or property owner shall contribute a fee to the Municipality's Affordable Housing Trust Fund in lieu of providing all or a portion of the required Affordable Housing Units within the proposed development.
@@ -239,8 +300,8 @@ d. All site plans shall be prepared by a certified architect, landscape architec
 e. Narrative of compliance with the applicable design standards of this Section[x].
 3. Timeline. Site Plan Review should be commenced no later than 30 days of the submission of a complete application and should be completed expeditiously. The site plan review authority may, when appropriate, seek the input of other municipal boards or officials. In general, site plan review should be completed no more than 6 months after the submission of the application.
 4. Site Plan Approval. Site Plan approval for uses listed in Section [x] D Permitted Uses shall be granted upon determination by the Site Plan Review Authority that the following conditions have been satisfied. The Site Plan Review Authority may impose reasonable conditions, at the expense of the applicant, to ensure that these conditions have been satisfied.
-a. The Applicant has submitted the required fees and information as set forth in Municipalityís requirements for a Building Permit and Site Plan Review; and
-b. [Use only if there are no development standards within the local zoning or included in this MCMOD district.] Any new building construction or other site alteration shall provide adequate access to each structure for fire and service equipment and adequate provision for utilities and stormwater drainage that demonstrates compliance of the construction activities and the proposed project with the most current versions of the Massachusetts Department of Environmental Protection Stormwater Management Standards, the Massachusetts Stormwater Handbook, Massachusetts Erosion Sediment and Control Guidelines, and, if applicable, additional requirements under the [Municipality] MS4 Permit for projects that disturb more than one acre and discharge to the [Cityís/Townís] municipal stormwater system, and an Operations and Management Plan for both the construction activities and ongoing post-construction maintenance and reporting requirements.
+a. The Applicant has submitted the required fees and information as set forth in Municipality‚Äôs requirements for a Building Permit and Site Plan Review; and
+b. [Use only if there are no development standards within the local zoning or included in this MCMOD district.] Any new building construction or other site alteration shall provide adequate access to each structure for fire and service equipment and adequate provision for utilities and stormwater drainage that demonstrates compliance of the construction activities and the proposed project with the most current versions of the Massachusetts Department of Environmental Protection Stormwater Management Standards, the Massachusetts Stormwater Handbook, Massachusetts Erosion Sediment and Control Guidelines, and, if applicable, additional requirements under the [Municipality] MS4 Permit for projects that disturb more than one acre and discharge to the [City‚Äôs/Town‚Äôs] municipal stormwater system, and an Operations and Management Plan for both the construction activities and ongoing post-construction maintenance and reporting requirements.
       OR
 c. [Use if the municipality used Section G., above] the project as described in the application meets the development standards set forth in Section [x] G. General Development Standards.]
 5. Project Phasing. An Applicant may propose, in a Site Plan Review submission, that a project be developed in phases subject to the approval of the Site Plan Review Authority, provided that the submission shows the full buildout of the project and all associated impacts as of the completion of the final phase. However, no project may be phased solely to avoid the provisions of Section [x] H. Affordability Requirements.]
@@ -259,7 +320,7 @@ c. [Use if the municipality used Section G., above] the project as described in 
 
 
 J.	Severability.
-If any provision of this Section [x] is found to be invalid by a court of competent jurisdiction, the remainder of Section [x] shall not be affected but shall remain in full force. The invalidity of any provision of this Section [x] shall not affect the validity of the remainder of the [Municipalityís] Zoning.
+If any provision of this Section [x] is found to be invalid by a court of competent jurisdiction, the remainder of Section [x] shall not be affected but shall remain in full force. The invalidity of any provision of this Section [x] shall not affect the validity of the remainder of the [Municipality‚Äôs] Zoning.
 
 
 
@@ -301,38 +362,38 @@ Appendix B. Affordable Housing
 Section 3A and Affordable Housing
 
 Section 3A does not address affordable housing. Section 4.b. of the Compliance Guidelines addresses affordable housing as noted in the comments for Section [x] H. Affordability Requirements. Municipalities have an option to include deeper affordability requirements with EOHLC approval of an Economic Feasibility Analysis (EFA). Guidance related to submission of an EFA can be found on the mass.gov/mbtacommunities web pages.
-A community may impose affordability restrictions as permitted by the Compliance Guidelines without such restrictions being inconsistent with the as of right multi-family use required by Section 3A. The communityís requirements also need not be tied to the use of the Site Plan Review process. (See Appendix G. Site Plan Review.)
-Affordability requirements can be tied to the as of right use or as part of a special permit process with development incentives ñ an option for a special permit is discussed in Appendix D. Special Permits. Affordability under the Compliance Guidelines is restricted; the use of special permits may provide greater flexibility for specific local initiatives for affordable housing above the requirements allowed by the Compliance Guidelines.
+A community may impose affordability restrictions as permitted by the Compliance Guidelines without such restrictions being inconsistent with the as of right multi-family use required by Section 3A. The community‚Äôs requirements also need not be tied to the use of the Site Plan Review process. (See Appendix G. Site Plan Review.)
+Affordability requirements can be tied to the as of right use or as part of a special permit process with development incentives ‚Äì an option for a special permit is discussed in Appendix D. Special Permits. Affordability under the Compliance Guidelines is restricted; the use of special permits may provide greater flexibility for specific local initiatives for affordable housing above the requirements allowed by the Compliance Guidelines.
 Workforce Housing: Affordability Requirements for units ver 80% of AMI
-Communities may choose to work towards including their units on the Subsidized Housing Inventory (SHI) which must be restricted to be affordable to households making not more than 80% of the AMI and meet other SHI eligibility requirements. However, some communities are addressing local needs for Workforce Housing that has affordability requirements for households making over 80% of AMI ñ typically between 81% and 120% of AMI. Affordable units that are restricted to households in that income range will not qualify for the SHI because of the higher income levels. Such affordable workforce units must have recorded deed restrictions and must be monitored for compliance with income restrictions.
+Communities may choose to work towards including their units on the Subsidized Housing Inventory (SHI) which must be restricted to be affordable to households making not more than 80% of the AMI and meet other SHI eligibility requirements. However, some communities are addressing local needs for Workforce Housing that has affordability requirements for households making over 80% of AMI ‚Äì typically between 81% and 120% of AMI. Affordable units that are restricted to households in that income range will not qualify for the SHI because of the higher income levels. Such affordable workforce units must have recorded deed restrictions and must be monitored for compliance with income restrictions.
 MassHousing provides information about their Workforce Housing Fund and the program guidelines here: https://www.masshousing.com/developers/workforce-housing
 Subsidized Housing Inventory
-In Section [x] H. Affordability Requirements, optional language in the Sample Zoning ties the creation of Affordable Units to the SHI. For units to count on the SHI, they must comply with all applicable requirements under 760 CMR 56.00 et seq., including without limitation (a) income limitations no higher than 80% AMI, (b) receipt of a state subsidy, which may take the form of technical assistance under EOHLCís Local Initiative Program/Local Action Unit Program, and (c) recordation of an affordability restriction with the records of the Registry of Deeds.
+In Section [x] H. Affordability Requirements, optional language in the Sample Zoning ties the creation of Affordable Units to the SHI. For units to count on the SHI, they must comply with all applicable requirements under 760 CMR 56.00 et seq., including without limitation (a) income limitations no higher than 80% AMI, (b) receipt of a state subsidy, which may take the form of technical assistance under EOHLC‚Äôs Local Initiative Program/Local Action Unit Program, and (c) recordation of an affordability restriction with the records of the Registry of Deeds.
 
 Note that any development standards for SHI units must comply with the requirements of an eligible subsidy program. (This may apply to both Section [x] H. Affordability Requirements and Section [x] G. General Development Standards.)
-SHI eligible units may be subject to a recorded regulatory agreement with the relevant subsidizing agency. In the case of Local Action Units created through EOHLCís LIP program, such regulatory agreement shall be executed by the developer/project sponsor, the municipality, and EOHLC in accordance with Local Initiative Program regulations and guidelines.
+SHI eligible units may be subject to a recorded regulatory agreement with the relevant subsidizing agency. In the case of Local Action Units created through EOHLC‚Äôs LIP program, such regulatory agreement shall be executed by the developer/project sponsor, the municipality, and EOHLC in accordance with Local Initiative Program regulations and guidelines.
 Communities using the Local Initiative Program/Local Action Unit Program should coordinate with EOHLC early in development process to ensure compliance with program and development requirements (e.g., unit size, number of bedrooms required, or long-term use restriction/ regulatory agreement to be executed with EOHLC).
 Resources
-For detailed information about SHI eligibility and a list of Eligible Subsidy Programs, please review EOHLCís G.L. c. 40B Guidelines:
+For detailed information about SHI eligibility and a list of Eligible Subsidy Programs, please review EOHLC‚Äôs G.L. c. 40B Guidelines:
 https://www.mass.gov/doc/guidelines-gl-c40b-comprehensive-permit-projects-subsidized-housing-inventory/download
 
 For more information about the LAU Program, visit the LIP/LAU Program website:
 https://www.mass.gov/service-details/local-initiative-program
 
-Other resources to review include MHPís Local Action Units Guidelines:
+Other resources to review include MHP‚Äôs Local Action Units Guidelines:
 https://www.housingtoolbox.org/resources/local-action-units-laus-guide
 
-and EOHLCís 40R program if the community does not already have a 40R district.
+and EOHLC‚Äôs 40R program if the community does not already have a 40R district.
 https://www.mass.gov/service-details/chapter-40r
 
 
 Appendix C. Development Intensity
 
-Development intensity refers to the relative intensity of the built environment with respect to the location from a transit station. The measurement of distance from a transit station is based on the distance from the closest edge of the parcel containing the transit station to the parcel being measured. Communities can use the area types described below as guides to define either a MCMOD based on the current development patterns in their community or sub-districts within their proposed MCMOD. Please note ñ these are only suggestions for a variety of approaches that may be taken to comply with Section 3A. Many communities will craft their own scale of development intensity or even multiple sub-districts in order to demonstrate compliance.
-* Lower Intensity. Larger lot sizes, lower building heights, higher requirements for minimum Open Space, and higher maximum parking ratios. Lower Intensity areas are more likely to be beyond a Ω-mile from a transit station.
-* Medium Intensity. Mid-height buildings, medium requirements for minimum Open Space, medium maximum parking ratios. Lot sizes may vary depending on the location within the community. Medium intensity areas may be transitions from Medium-High Intensity areas to Lower Intensity areas within a Ω-mile to a mile of a transit station. Medium Intensity areas could also be community-defined town or village centers.
-* Medium-High Intensity. Transition from High Intensity to Medium Intensity areas in terms of height and open space requirements and generally within a Ω-mile of a transit station or within larger community-defined town centers or downtowns.
-* High Intensity. Smaller lots and taller buildings or block-size buildings, no requirements for minimum Open Space, lower maximum parking ratios or structured parking. High intensity areas are more likely to be located within a º-mile of a Transit Station.
+Development intensity refers to the relative intensity of the built environment with respect to the location from a transit station. The measurement of distance from a transit station is based on the distance from the closest edge of the parcel containing the transit station to the parcel being measured. Communities can use the area types described below as guides to define either a MCMOD based on the current development patterns in their community or sub-districts within their proposed MCMOD. Please note ‚Äì these are only suggestions for a variety of approaches that may be taken to comply with Section 3A. Many communities will craft their own scale of development intensity or even multiple sub-districts in order to demonstrate compliance.
+* Lower Intensity. Larger lot sizes, lower building heights, higher requirements for minimum Open Space, and higher maximum parking ratios. Lower Intensity areas are more likely to be beyond a ¬Ω-mile from a transit station.
+* Medium Intensity. Mid-height buildings, medium requirements for minimum Open Space, medium maximum parking ratios. Lot sizes may vary depending on the location within the community. Medium intensity areas may be transitions from Medium-High Intensity areas to Lower Intensity areas within a ¬Ω-mile to a mile of a transit station. Medium Intensity areas could also be community-defined town or village centers.
+* Medium-High Intensity. Transition from High Intensity to Medium Intensity areas in terms of height and open space requirements and generally within a ¬Ω-mile of a transit station or within larger community-defined town centers or downtowns.
+* High Intensity. Smaller lots and taller buildings or block-size buildings, no requirements for minimum Open Space, lower maximum parking ratios or structured parking. High intensity areas are more likely to be located within a ¬º-mile of a Transit Station.
 
 Dimensional Standards and Development Intensity
 These sample dimensional standards are split into a menu of four different area types based on the relative intensity of development. These suggested dimensional standards can be set by Multi-family Building Type, sub-district, or throughout the MCMOD. The area could be an entire district, for example, an Adjacent Community may have a development pattern that is lower in intensity of use and built environment than the community next door with a commuter rail station. That Adjacent Community may wish to use the suggested Lower Intensity dimensions below.
@@ -344,17 +405,142 @@ For communities wishing to test their existing zoning or a proposed zoning distr
 
 
 
-Standard Lower IntensityMedium IntensityMedium- High Intensity  High IntensityLot SizeMinimum(1) (SF)20,0005,0002,5000Height(2)Stories (Maximum)3456Feet (Maximum)45556575Minimum Open Space(3)Within º mile of a Transit Station20%10%10%5%Within Ω mile of a Transit Station20%10%10%5%Over Ω mile from a Transit Station30%20%10%5%
+Standard
+ Lower Intensity
+Medium Intensity
+Medium- High Intensity
+  High Intensity
+Lot Size
+
+
+
+
+Minimum(1) (SF)
+20,000
+5,000
+2,500
+0
+Height(2)
+
+
+
+
+Stories (Maximum)
+3
+4
+5
+6
+Feet (Maximum)
+45
+55
+65
+75
+Minimum Open Space(3)
+
+
+
+
+Within ¬º mile of a Transit Station
+20%
+10%
+10%
+5%
+Within ¬Ω mile of a Transit Station
+20%
+10%
+10%
+5%
+Over ¬Ω mile from a Transit Station
+30%
+20%
+10%
+5%
+
 6. FAR and Building Coverage.
 
 
 
-StandardLower IntensityMedium IntensityMedium- High IntensityHigh IntensityFloor Area Ratio (FAR)(4)2.53.54.55 or higherMaximum Building Coverage(5)Within º mile of a Transit Station80%90%90%95%Within Ω mile of a Transit Station80%90%90%95%Over Ω mile from a Transit Station70%80%90%95%
+Standard
+Lower Intensity
+Medium Intensity
+Medium- High Intensity
+High Intensity
+Floor Area Ratio (FAR)(4)
+2.5
+3.5
+4.5
+5 or higher
+Maximum Building Coverage(5)
+
+
+
+
+Within ¬º mile of a Transit Station
+80%
+90%
+90%
+95%
+Within ¬Ω mile of a Transit Station
+80%
+90%
+90%
+95%
+Over ¬Ω mile from a Transit Station
+70%
+80%
+90%
+95%
+
 7. Frontage and Yards.
 
 
 
-StandardLower IntensityMedium IntensityMedium- High IntensityHigh IntensityMinimum Frontage(6) (ft)5025250Front Yard Setback(7)Min. to Max. (ft.)10-4010-200-200-15Side Yard SetbackCorner (ft)10-4010-200-100-10Interior (ft)10-4010-200-100-10Rear Yard SetbackMin. to Max. (ft.)10-4010-205-105-10
+Standard
+Lower Intensity
+Medium Intensity
+Medium- High Intensity
+High Intensity
+Minimum Frontage(6) (ft)
+50
+25
+25
+0
+Front Yard Setback(7)
+
+
+
+
+Min. to Max. (ft.)
+10-40
+10-20
+0-20
+0-15
+Side Yard Setback
+
+
+
+
+Corner (ft)
+10-40
+10-20
+0-10
+0-10
+Interior (ft)
+10-40
+10-20
+0-10
+0-10
+Rear Yard Setback
+
+
+
+
+Min. to Max. (ft.)
+10-40
+10-20
+5-10
+5-10
+
 
 Appendix D. Special Permits
 
@@ -366,7 +552,7 @@ Multi-family must be allowed as of right and may be subject to Site Plan review.
 * Standards that the community wants to promote, such as the use or generation of renewable energy, mitigation of heat island effect, or other specific community benefits. Such standards could be paired with a height or density bonus. (See sample Section[x].D.2.d, below)
 * Whether the community is using this zoning as a base district rather than as an overlay and wishes to permit additional use types with more stringent standards.
 * Whether the community is using sub-districts with different levels of development intensity.
-Remember to add the definitions of additional uses to Section [x] C. Definitions if those uses are not already defined in the communityís current Zoning.
+Remember to add the definitions of additional uses to Section [x] C. Definitions if those uses are not already defined in the community‚Äôs current Zoning.
 Section[x].D.2.a-d below are provided as examples for communities to consider and are not required by the Compliance Guidelines. Communities have many options to define uses that
 
 require special permits, but the options below address some situations that may be common to the MBTA Communities. The sample language below is provided as a guide to developing community-appropriate special permit uses.
@@ -378,7 +564,7 @@ a. Affordable Housing. The provision of Affordable Housing for either (a) at lea
 Some communities seek higher requirements for the provision of affordable housing units than the Compliance Guidelines allow. (See Appendix B. Affordable Housing for more discussion of this topic.) Higher affordability requirements help to address community needs, but for smaller projects, the provision of such units may increase the cost of development beyond the level of feasibility. One way to address this situation is to provide a bonus that adds additional value to the development to support the higher requirement for affordable units. In this example, an extra story of height acts as that incentive.
 b. Second-floor Office Use in Mixed-Use Developments. Office use on the second floor of a mixed-use development.
   Why Might a Community Add This Special Permit?
-Residential is a required component of mixed-use developments in a MCMOD. As suggested in Section [x] D. Permitted Uses, the non-residential uses would be limited to the ground floor. However, certain situations may call for a non-residential use on an upper floor ñ for example, the adaptive reuse of an older building or a site with significant topographical change. A Special Permit could provide flexibility in the location of non-residential uses within the building (in this example, office). The key is that denial of the special permit for this purpose may not be used to deny the residential component of the project.
+Residential is a required component of mixed-use developments in a MCMOD. As suggested in Section [x] D. Permitted Uses, the non-residential uses would be limited to the ground floor. However, certain situations may call for a non-residential use on an upper floor ‚Äì for example, the adaptive reuse of an older building or a site with significant topographical change. A Special Permit could provide flexibility in the location of non-residential uses within the building (in this example, office). The key is that denial of the special permit for this purpose may not be used to deny the residential component of the project.
 
 c. Light Industrial Use in Mixed-Use Developments. The [Permitting Authority] may grant a special permit for light industrial use in combination with multi- family housing or mixed-use development. The special permit shall be limited to conditions on the integration of the circulation of pedestrians and vehicles with the circulation for other uses on the site, location of industrial loading docks with respect to residential uses, and the mitigation of noise, dust, odors, and storage of hazardous and/or bulk materials, including trash and waste products, related to the operations of the industrial use. The [Site Plan Review Authority] may require appropriate internal landscaped buffers between uses to promote safety and mitigate visual or auditory impacts. Denial of a special permit for industrial use is not an automatic denial of the multi-family housing or residential components of a mixed-use development.
   Why Might a Community Add This Special Permit?
@@ -405,17 +591,38 @@ The suggested ratios in the table below are maximums based on the distance of th
 1. Number of parking spaces. The following maximum numbers of off-street parking spaces shall be permitted by use, either in surface parking or within garages or other structures:
 
 
-Use/LocationMaximum Spaces per Residential Dwelling UnitMulti-familyWithin º mile of a Transit Station1.00Within Ω mile of a Transit Station1.25Over Ω mile from a Transit Station2.00Mixed-use, non-residentialSum of uses computed separately. (See 3, below.)
+Use/Location
+Maximum Spaces per Residential Dwelling Unit
+Multi-family
+
+Within ¬º mile of a Transit Station
+1.00
+Within ¬Ω mile of a Transit Station
+1.25
+Over ¬Ω mile from a Transit Station
+2.00
+Mixed-use, non-residential
+Sum of uses computed separately. (See 3, below.)
+
 Bicycle Parking and Storage
 As bicycle use becomes more common as a form of both regular transit and recreation, providing bicycle spaces in each development is increasing in importance. Equally important for multi- family housing is the ability to store bicycles in covered storage. The table below is a starting point for the minimum number of bicycle spaces per use, by geography. Bicycle parking and storage is not part of the Compliance Model and is not a required component of compliance with Section 3A and the Compliance Guidelines. Communities should consider the existing and projected local bicycle infrastructure when establishing their regulations. For example, a community with a multi-use rail trail may want to establish higher minimum requirements for spaces and storage.
 2. Number of bicycle parking spaces. The following minimum numbers of covered bicycle storage spaces shall be provided by use:
 
 
 
-Location
+Location
 
-Multi-family   Mixed-Use (Non-residential)/
-CommercialWithin 1 mile of a Transit Station1 per dwelling unit1 per every [five (5)] parking spacesOver 2 miles from a Transit Station1 per every [two (2)] dwelling units1 per every [ten (10)] parking spaces
+
+Multi-family
+   Mixed-Use (Non-residential)/
+Commercial
+Within 1 mile of a Transit Station
+1 per dwelling unit
+1 per every [five (5)] parking spaces
+Over 2 miles from a Transit Station
+1 per every [two (2)] dwelling units
+1 per every [ten (10)] parking spaces
+
 Parking Relief for Historic Buildings
 Another option for meeting local needs is to consider incentives for the adaptive reuse of historic buildings. One way to do that is to provide parking relief. For example, removing parking requirements for the residential uses in an historic building creates an incentive to reuse the upper floors for residential uses. This is important, because the requirements to bring older buildings up to code for upper-story residential use can be expensive. Reductions in parking requirements help offset that cost and reduce the need for a variance for a smaller downtown lot with an existing building. This option may be more important for a community retaining parking minimums in its Zoning. Sample language is below:
 Waiver of Parking Requirements for Historic Buildings. The adaptive reuse of buildings listed on the National or State Registers of Historic Places, or eligible for such listing, is not required to provide parking for the residential uses within the historic building. Parking shall be provided for additions to the historic building or for
@@ -431,7 +638,7 @@ Number of electric vehicle (EV) charging stations. For all uses within the MCMOD
 Appendix F. Development Standards and Design Guidelines 
 Development Standards
 
-Development Standards, examples of which are provided in Section [x] G. General Development Standards and Section [x] H. Affordability Requirements must be clear, objective, and quantifiable ñ in other words, anyone reading the standard must be able to say with certainty whether or not the standard has been met. An example might be a requirement for a roof pitch of 9:12 or a prohibition on parking in the front yard setback. Either can be verified by reviewing the plans from the Applicant either as part of a building permit application or in the Site Plan Review process.
+Development Standards, examples of which are provided in Section [x] G. General Development Standards and Section [x] H. Affordability Requirements must be clear, objective, and quantifiable ‚Äì in other words, anyone reading the standard must be able to say with certainty whether or not the standard has been met. An example might be a requirement for a roof pitch of 9:12 or a prohibition on parking in the front yard setback. Either can be verified by reviewing the plans from the Applicant either as part of a building permit application or in the Site Plan Review process.
 Development standards in a MCMOD must be tied to either Administrative review for an as of right use or the criteria for Site Plan Review for projects for which that process is applicable. The development standards must reflect reasonable terms and conditions on the use.
 
 Additional Options for Development Standards
@@ -442,7 +649,7 @@ Open Space. Acceptable activities within the minimum required Open Space include
 * Multiple buildings on a lot/campus-style development. Buildings may be oriented around an internal street network or, in a campus-like environment, to create community courtyards serving to define space for public and private activities.
 
 Design Guidelines
-Some communities have a design guidelines document that is separate from its Zoning and contains text and illustrations of the standards to be followed. If communities wish to use such a document for their MCMODs, then care must be taken to limit the design guidelines to the criteria for Site Plan Review. Language that is subjective ñ for example, ìmaterials must be of high qualityî or ìlandscaping must be attractiveî ñ is not appropriate for design guidelines in a MCMOD. The document must be readily available to the Applicant prior to submission for a building permit. Communities should also carefully consider how such design guidelines are incorporated into the Site Plan Review process; any use of the design guidelines should not cause an undue delay in the review of the application or be used to deny the as of right multi-family use. See Appendix G. Site Plan Review for more information.
+Some communities have a design guidelines document that is separate from its Zoning and contains text and illustrations of the standards to be followed. If communities wish to use such a document for their MCMODs, then care must be taken to limit the design guidelines to the criteria for Site Plan Review. Language that is subjective ‚Äì for example, ‚Äúmaterials must be of high quality‚Äù or ‚Äúlandscaping must be attractive‚Äù ‚Äì is not appropriate for design guidelines in a MCMOD. The document must be readily available to the Applicant prior to submission for a building permit. Communities should also carefully consider how such design guidelines are incorporated into the Site Plan Review process; any use of the design guidelines should not cause an undue delay in the review of the application or be used to deny the as of right multi-family use. See Appendix G. Site Plan Review for more information.
 Sample language to link to an outside document to the zoning is below:
 Design Guidelines. The Sie Plan Review Authority may adopt and amend, by simple majority vote, Design Standards which shall be applicable to all rehabilitation, redevelopment, or new construction within the MCMOD. Such Design Guidelines must be objective and not subjective and may only address the scale and proportions of buildings, the alignment, width, and grade of streets and sidewalks, the type and location of infrastructure, the location of building and garage entrances, off street parking, the protection of significant natural site features, the location and design of on-site open spaces, exterior signs, and buffering in relation to adjacent properties. Design Guidelines may contain graphics illustrating a particular standard or definition in order to make such standard or definition clear and understandable.
 
@@ -450,15 +657,15 @@ Design Guidelines. The Sie Plan Review Authority may adopt and amend, by simple 
 Appendix G. Site Plan Review
 
 For more specific information about the applicability of Site Plan Review to the MCMOD, please see section 4.a. of the Compliance Guidelines.
-Communities should also review recent case law and opinions from the Attorney Generalís Office (AGO). The AGO released an opinion for Case #10555 on November 21, 2022, that would be useful to review. This case revolved around a recent warrant article in the Town of Mansfield that established two levels of site plan review: Administrative Plan Approval and Major Plan Approval.
+Communities should also review recent case law and opinions from the Attorney General‚Äôs Office (AGO). The AGO released an opinion for Case #10555 on November 21, 2022, that would be useful to review. This case revolved around a recent warrant article in the Town of Mansfield that established two levels of site plan review: Administrative Plan Approval and Major Plan Approval.
 The opinion also provides specific guidance for communities who are considering applying Site Plan Review to uses covered under Section 3 of the Zoning Act (commonly referred to as Dover Amendment uses) and the as of right multi-family use under Section 3A.
 Key components of Site Plan Review for MBTA Communities to consider as they modify Section
 [x] I. Site Plan Review include the following:
 * Site Plan Review is limited to the regulation of the use: the Permitting Authority may
-ìimpose reasonable terms and conditionsî on the as of right use.
-* The Permitting Authority does not have ìdiscretionary powerî to deny the as of right use;
+‚Äúimpose reasonable terms and conditions‚Äù on the as of right use.
+* The Permitting Authority does not have ‚Äúdiscretionary power‚Äù to deny the as of right use;
 in other words, it may not prohibit the use.
-Communities should review the opinion, which is available on the AGOís Municipal Law Unit Decision Lookup: https://massago.hylandcloud.com/203publicaccess/mlu.htm. This opinion includes references to other case law relating to the use of the Site Plan Review process and how the courts have viewed procedures and criteria for review.
+Communities should review the opinion, which is available on the AGO‚Äôs Municipal Law Unit Decision Lookup: https://massago.hylandcloud.com/203publicaccess/mlu.htm. This opinion includes references to other case law relating to the use of the Site Plan Review process and how the courts have viewed procedures and criteria for review.
 Resources for municipal staff and elected officials include the Handbook of Massachusetts Land Use and Planning Law (Mark Bobrowski, Wolters Kluwer, currently in the fifth edition) and, for members of the Massachusetts Chapter of the American Planning Association, the Guidebook to Massachusetts Land Use (Robert P. Mitchell, FAICP and Robert W. Ritchie, Esq., American Planning Association Massachusetts Chapter, 2021). Both have chapters on Site Plan Review, including applicable case law.
 
 
